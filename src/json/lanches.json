@@ -1,0 +1,246 @@
+[
+    {
+        "titulo": "Cachorrão Especial",
+        "imagem": "/imagens/lanche-1.png",
+        "id": 1,
+        "descricao": "Maionese, Ketchup, Mostarda, Tomate Catupiry ou mussarela, 2 Salsichas e Batata Palha",
+        "tag": "tradicional",
+        "preco": "16,00"
+    },
+    {
+        "titulo": "Cachorrão a Moda",
+        "imagem": "/imagens/lanche-2.png",
+        "id": 2,
+        "descricao": "Maionese, Ketchup, Mostarda, Cebola, Catupiry ou mussarela, 2 Salsichas, Calabresa, Bacon e Batata Palha",
+        "tag": "tradicional",
+        "preco": "20,00"
+    }, 
+    {
+        "titulo": "X-Burguer",
+        "imagem": "/imagens/lanche-3.png",
+        "id": 3,
+        "descricao": "Maionese, Ketchup, Mostarda, Tomate, Hambúrguer, Presunto, Catupiry ou mussarela,  e Batata Palha",
+        "tag": "tradicional",
+        "preco": "17,00"
+    },
+    {
+        "titulo": "X-Egg",
+        "imagem": "/imagens/lanche-4.png",
+        "id": 4,
+        "descricao": "Maionese, Ketchup, Mostarda, Presunto, Hambúrguer, Tomate, Ovo, Catupiry ou mussarela  e Batata Palha",
+        "tag": "tradicional",
+        "preco": "19,00"
+    },
+    {
+        "titulo": "X-Bacon",
+        "imagem": "/imagens/lanche-5.png",
+        "id": 5,
+        "descricao": "Maionese, Ketchup, Mostarda, Cebola, Hambúrguer, Ovo, Bacon, Mussarela, Catupiry e Batata Palha",
+        "tag": "tradicional",
+        "preco": "24,00"
+    },
+    {
+        "titulo": "X-Calabresa",
+        "imagem": "/imagens/lanche-6.png",
+        "id": 6,
+        "descricao": "Maionese, Ketchup, Mostarda, Cebola, Hambúrguer, Calabresa, Mussarela, Catupiry e Batata Palha",
+        "tag": "tradicional",
+        "preco": "21,00"
+    },
+    {
+        "titulo": "X-Salada",
+        "imagem": "/imagens/lanche-0.png",
+        "id": 7,
+        "descricao": "Maionese, Ketchup, Mostarda, Cebola, Tomate, Hambúrguer, Alface, Mussarela, Catupiry e Batata Palha",
+        "tag": "tradicional",
+        "preco": "21,00"
+    },
+    {
+        "titulo": "Vegetariano",
+        "imagem": "/imagens/lanche-0.png",
+        "id": "8",
+        "descricao": "Maionese, Ketchup, Mostarda, Cebola, Tomate, Ovo, Alface, Mussarela, Catupiry, Batata Palha.",
+        "tag": "tradicional",
+        "preco": "20,00"
+    },
+    {
+        "titulo": "Frangão",
+        "imagem": "/imagens/lanche-9.png",
+        "id": "9",
+        "descricao": "Maionese, Ketchup, Mostarda, Frango, Bacon, Cebola, Mussarela, Catupiry, Batata Palha.",
+        "tag": "tradicional",
+        "preco": "24,00"
+    },
+    {
+        "titulo": "Calafrango",
+        "imagem": "/imagens/lanche-9.png",
+        "id": "10",
+        "descricao": "Maionese, Ketchup, Mostarda, Cebola, Frango, Bacon, Calabresa, Mussarela, Catupiry e Batata Palha",
+        "tag": "tradicional",
+        "preco": "25,00"
+    },
+    {
+        "titulo": "Calabacon",
+        "imagem": "/imagens/lanche-6.png",
+        "id": "11",
+        "descricao": "Maionese, Ketchup, Mostarda, Cebola, Hambúrguer, Calabresa, Bacon, Mussarela, Catupiry, Batata Palha.",
+        "tag": "tradicional",
+        "preco": "25,00"
+    },
+    {
+        "titulo": "Churrasquinho",
+        "imagem": "/imagens/lanche-12.png",
+        "id": "12",
+        "descricao": "Maionese Temperada, Contra Filé, Cebola, Mussarela, e Batata Palha, (Tomate Opcional).",
+        "tag": "tradicional",
+        "preco": "26,00"
+    },
+    {
+        "titulo": " X-Beikao",
+        "imagem": "/imagens/lanche-13.png",
+        "id": "13",
+        "descricao": "Maionese, Ketchup, Mostarda, Cebola, 2 Hambúrgueres, Calabresa, Bacon, Frango, 2 Salsichas, Presunto, Ovo, Mussarela, Catupiry, Batata Palha.",
+        "tag": "tradicional",
+        "preco": "36,00"
+    },
+    {
+        "titulo": "Beikao Jr.",
+        "imagem": "/imagens/lanche-14.png",
+        "id": "14",
+        "descricao": "Pao Brioche, Molho Especial, Hambúrguer 100g, Cheddar Polenghi",
+        "tag": "artesanal",
+        "preco": "18,00"
+    },
+    {
+        "titulo": "Classic Smash",
+        "imagem": "/imagens/lanche-15.png",
+        "id": "15",
+        "descricao": "Pao Brioche, 2 hamburguer 80g e Cheddar Polenghi.",
+        "tag": "artesanal",
+        "label": "popular",
+        "preco": "22,00"
+    },
+    {
+        "titulo": "Double Smash",
+        "imagem": "/imagens/lanche-16.png",
+        "id": "16",
+        "descricao": "Pao Brioche, Molho Especial, 2 Hambúrgueres 80g, Cheddar Polenghi e Bacon",
+        "tag": "artesanal",
+        "preco": "25,00"
+    },
+    {
+        "titulo": "Triplo Smash",
+        "imagem": "/imagens/lanche-17.png",
+        "id": "17",
+        "descricao": "Pão Brioche, Molho Especial, 3 Hambúrgueres 80g , Cheddar Polenghi e Bacon",
+        "tag": "artesanal",
+        "preco": "30,00"
+    },
+    {
+        "titulo": "Quarteirão",
+        "imagem": "/imagens/lanche-18.png",
+        "id": "18",
+        "descricao": "Pão Brioche, Molho Especial, 4 Hambúrgueres 80g , Cheddar Polenghi e Bacon",
+        "tag": "artesanal",
+        "label": "popular",
+        "preco": "34,00"
+    },
+    {
+        "titulo": "Salada Burger",
+        "imagem": "/imagens/lanche-19.png",
+        "id": "19",
+        "descricao": "Pao Brioche, Molho Especial, Hambúrguer 150g, Alface, Cebola Roxa, Tomate, Cheddar Polenghi ou Mussarela.",
+        "tag": "artesanal",
+        "preco": "26,00"
+    },
+    {
+        "titulo": " Salada Bacon",
+        "imagem": "/imagens/lanche-20.png",
+        "id": "20",
+        "descricao": "Pão Brioche, Molho Especial, Hambúrguer 150g, Bacon, Alface, Cebola Roxa, Tomate, Cheddar Polenghi ou Mussarela",
+        "tag": "artesanal",
+        "preco": "28,00"
+    },
+    {
+        "titulo": " Bacon Barbecue",
+        "imagem": "/imagens/lanche-21.png",
+        "id": "21",
+        "descricao": "Pão Brioche, Molho Barbecue, 2 Hambúrguer 80g, Cebola Roxa, Cheddar Polenghi e Bacon.",
+        "tag": "artesanal",
+        "label": "popular",
+        "preco": "29,00"
+    },
+    {
+        "titulo": "Love Bacon",
+        "imagem": "/imagens/lanche-22.png",
+        "id": "22",
+        "descricao": "Pao Brioche, 1 Camadas de Bacon, Hambúrguer 150g e Cheddar Polenghi",
+        "tag": "artesanal",
+        "label": "popular",
+        "preco": "26,00"
+    },
+    {
+        "titulo": "Love Bacon 2.0",
+        "imagem": "/imagens/lanche-23.png",
+        "id": "23",
+        "descricao": "Pão Brioche,  2 Hambúrgueres 150g, 2 Camadas Bacon e Cheddar Polenghi",
+        "tag": "artesanal",
+        "preco": "34,00"
+    },
+    {
+        "titulo": "Love Bacon 3.0",
+        "imagem": "/imagens/lanche-24.png",
+        "id": "24",
+        "descricao": "Pão Brioche,  3 Hambúrgueres 150g, 3 Camadas Bacon e Cheddar Polenghi",
+        "tag": "artesanal",
+        "preco": "42,00"
+    },
+    {
+        "titulo": "Batata Frita  Simples",
+        "imagem": "/imagens/lanche-25.png",
+        "id": "25",
+        "descricao": "Batata Frita  Simples, Acompanha Molho.(Serve 2 pessoas)",
+        "tag": "porções",
+        "preco": "17,00"
+    },
+    {
+        "titulo": "Batata Bacon e Cheddar",
+        "imagem": "/imagens/lanche-26.png",
+        "id": "26",
+        "descricao": "Batata Frita com Bacon e Cheddar.(Serve 2 pessoas)",
+        "tag": "porções",
+        "preco": "24,00"
+    },
+    {
+        "titulo": "Água Mineral",
+        "imagem": "/imagens/lanche-27.png",
+        "id": "27",
+        "descricao": "Água Mineral 500ml",
+        "tag": "bebidas",
+        "preco": "3,00"
+    },
+    {
+        "titulo": "Água com Gás",
+        "imagem": "/imagens/lanche-28.png",
+        "id": "28",
+        "descricao": "Água com Gás 500ml",
+        "tag": "bebidas",
+        "preco": "3,50"
+    },
+    {
+        "titulo": "Refrigerantes de 350ml",
+        "imagem": "/imagens/lanche-29.png",
+        "id": "29",
+        "descricao": "Coca, Sukita Laranja ou Guaraná",
+        "tag": "bebidas",
+        "preco": "5,00"
+    },
+    {
+        "titulo": "Império",
+        "imagem": "/imagens/lanche-30.png",
+        "id": "30",
+        "descricao": "Puro Malte, 350 ml",
+        "tag": "bebidas",
+        "preco": "5,50"
+    }
+]

@@ -1,0 +1,19 @@
+.rodape {
+    background-color: #353535;
+    text-align: center;
+    padding-top: 10px;
+    color: rgb(184, 181, 181);
+    
+}
+
+.contatos {
+    display: flex;
+    justify-content: center;
+    color: var(--cor-branco);
+}
+
+.contato {
+    list-style: none;
+    padding: 10px 25px;
+    font-size: 25px;
+}

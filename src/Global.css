@@ -1,0 +1,23 @@
+:root{
+    --cor-principal: #353535;
+    --cor-fundo: #eae2b7;
+    --font-padrao: 'Heebo', sans-serif;
+    --font-beikao: 'Bungee Shade', cursive;;
+    --cor-preto: #000000;
+    --cor-card: #FF7433;
+    --cor-branco: #ffff;
+    --cor-subTitulo:  #3A55CF;
+    --cor-botao: #F02B19
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #94958B;
+    font-family: var(--font-padrao);
+}
+
